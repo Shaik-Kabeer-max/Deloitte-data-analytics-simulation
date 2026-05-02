@@ -24,14 +24,6 @@ Analyze device telemetry data to identify "unhealthy" machinery across different
 
 ---
 
-### 📊 Dashboard Preview
-
-<p align="center">
-  <img src="images/dashboard.png" width="700"/>
-</p>
-
----
-
 ### 2️⃣ 💰 Compensation Equality Analysis (Excel)
 
 **🎯 Objective:**
