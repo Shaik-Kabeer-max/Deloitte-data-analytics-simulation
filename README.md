@@ -19,13 +19,6 @@ Analyze device telemetry data to identify "unhealthy" machinery across different
 
 **🛠️ Tools:** Tableau Public  
 
----
-
-### 📊 Dashboard Preview
-
-<p align="center">
-  <img src="images/dashboard.png" width="700"/>
-</p>
 
 ---
 
